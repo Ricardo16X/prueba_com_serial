@@ -1,0 +1,10 @@
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\bin\Debug\prueba_puertoSerial.exe.config
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\bin\Debug\prueba_puertoSerial.exe
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\bin\Debug\prueba_puertoSerial.pdb
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.csprojAssemblyReference.cache
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.Form1.resources
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.Properties.Resources.resources
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.csproj.GenerateResource.cache
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.csproj.CoreCompileInputs.cache
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.exe
+C:\Users\Ordenador\source\repos\prueba_puertoSerial\prueba_puertoSerial\obj\Debug\prueba_puertoSerial.pdb
